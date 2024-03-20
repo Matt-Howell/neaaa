@@ -1,0 +1,21 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "cors": "^2.8.5",
+        "dotenv": "^8.0.0",
+        "express": "^4.17.1",
+        "express-session": "^1.17.0",
+        "googleapis": "^129.0.0",
+        "mysql": "^2.18.1",
+        "needle": "^3.3.1",
+        "node-fetch": "^2.6.9",
+        "on-finished": "^2.4.1",
+        "psl": "^1.9.0"
+    }
+}

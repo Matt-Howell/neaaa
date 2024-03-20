@@ -1,0 +1,702 @@
+[
+    {
+        "cc": "DZ",
+        "country": "Algeria",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.dz"
+    },
+    {
+        "cc": "DZ",
+        "country": "Algeria",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.dz"
+    },
+    {
+        "cc": "AO",
+        "country": "Angola",
+        "lang": "Portuguese",
+        "langCode": "pt",
+        "gdomain": "google.co.ao"
+    },
+    {
+        "cc": "AR",
+        "country": "Argentina",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.ar"
+    },
+    {
+        "cc": "AU",
+        "country": "Australia",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.au"
+    },
+    {
+        "cc": "AT",
+        "country": "Austria",
+        "lang": "German",
+        "langCode": "de",
+        "gdomain": "google.at"
+    },
+    {
+        "cc": "BH",
+        "country": "Bahrain",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.com.bh"
+    },
+    {
+        "cc": "BD",
+        "country": "Bangladesh",
+        "lang": "Bengali",
+        "langCode": "bn",
+        "gdomain": "google.com.bd"
+    },
+    {
+        "cc": "AM",
+        "country": "Armenia",
+        "lang": "Armenian",
+        "langCode": "hy",
+        "gdomain": "google.am"
+    },
+    {
+        "cc": "BE",
+        "country": "Belgium",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.be"
+    },
+    {
+        "cc": "BE",
+        "country": "Belgium",
+        "lang": "Dutch",
+        "langCode": "nl",
+        "gdomain": "google.be"
+    },
+    {
+        "cc": "BE",
+        "country": "Belgium",
+        "lang": "German",
+        "langCode": "de",
+        "gdomain": "google.be"
+    },
+    {
+        "cc": "BO",
+        "country": "Bolivia",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.bo"
+    },
+    {
+        "cc": "BR",
+        "country": "Brazil",
+        "lang": "Portuguese",
+        "langCode": "pt",
+        "gdomain": "google.com.br"
+    },
+    {
+        "cc": "BG",
+        "country": "Bulgaria",
+        "lang": "Bulgarian",
+        "langCode": "bg",
+        "gdomain": "google.bg"
+    },
+    {
+        "cc": "KH",
+        "country": "Cambodia",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.kh"
+    },
+    {
+        "cc": "CM",
+        "country": "Cameroon",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.cm"
+    },
+    {
+        "cc": "CA",
+        "country": "Canada",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.ca"
+    },
+    {
+        "cc": "CA",
+        "country": "Canada",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.ca"
+    },
+    {
+        "cc": "LK",
+        "country": "Sri Lanka",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "CL",
+        "country": "Chile",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.cl"
+    },
+    {
+        "cc": "TW",
+        "country": "Taiwan",
+        "lang": "Chinese",
+        "langCode": "zh",
+        "gdomain": "google.com.tw"
+    },
+    {
+        "cc": "CO",
+        "country": "Colombia",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.co"
+    },
+    {
+        "cc": "CR",
+        "country": "Costa Rica",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "HR",
+        "country": "Croatia",
+        "lang": "Croatian",
+        "langCode": "hr",
+        "gdomain": "google.hr"
+    },
+    {
+        "cc": "CY",
+        "country": "Cyprus",
+        "lang": "Greek",
+        "langCode": "el",
+        "gdomain": "google.com.cy"
+    },
+    {
+        "cc": "CY",
+        "country": "Cyprus",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.cy"
+    },
+    {
+        "cc": "DK",
+        "country": "Denmark",
+        "lang": "Danish",
+        "langCode": "da",
+        "gdomain": "google.dk"
+    },
+    {
+        "cc": "EC",
+        "country": "Ecuador",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.ec"
+    },
+    {
+        "cc": "SV",
+        "country": "El Salvador",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "EE",
+        "country": "Estonia",
+        "lang": "Estonian",
+        "langCode": "et",
+        "gdomain": "google.ee"
+    },
+    {
+        "cc": "FI",
+        "country": "Finland",
+        "lang": "Finnish",
+        "langCode": "fi",
+        "gdomain": "google.fi"
+    },
+    {
+        "cc": "FR",
+        "country": "France",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.fr"
+    },
+    {
+        "cc": "DE",
+        "country": "Germany",
+        "lang": "German",
+        "langCode": "de",
+        "gdomain": "google.de"
+    },
+    {
+        "cc": "GH",
+        "country": "Ghana",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.gh"
+    },
+    {
+        "cc": "GR",
+        "country": "Greece",
+        "lang": "Greek",
+        "langCode": "el",
+        "gdomain": "google.gr"
+    },
+    {
+        "cc": "GT",
+        "country": "Guatemala",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.gt"
+    },
+    {
+        "cc": "HK",
+        "country": "Hong Kong",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "HK",
+        "country": "Hong Kong",
+        "lang": "Chinese",
+        "langCode": "zh",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "HU",
+        "country": "Hungary",
+        "lang": "Hungarian",
+        "langCode": "hu",
+        "gdomain": "google.hu"
+    },
+    {
+        "cc": "IN",
+        "country": "India",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.co.in"
+    },
+    {
+        "cc": "IN",
+        "country": "India",
+        "lang": "Hindi",
+        "langCode": "hi",
+        "gdomain": "google.co.in"
+    },
+    {
+        "cc": "ID",
+        "country": "Indonesia",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.co.id"
+    },
+    {
+        "cc": "ID",
+        "country": "Indonesia",
+        "lang": "Indonesian",
+        "langCode": "id",
+        "gdomain": "google.co.id"
+    },
+    {
+        "cc": "IE",
+        "country": "Ireland",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.ie"
+    },
+    {
+        "cc": "IL",
+        "country": "Israel",
+        "lang": "Hebrew",
+        "langCode": "he",
+        "gdomain": "google.co.il"
+    },
+    {
+        "cc": "IL",
+        "country": "Israel",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.co.il"
+    },
+    {
+        "cc": "IT",
+        "country": "Italy",
+        "lang": "Italian",
+        "langCode": "it",
+        "gdomain": "google.it"
+    },
+    {
+        "cc": "JP",
+        "country": "Japan",
+        "lang": "Japanese",
+        "langCode": "ja",
+        "gdomain": "google.co.jp"
+    },
+    {
+        "cc": "KZ",
+        "country": "Kazakhstan",
+        "lang": "Russian",
+        "langCode": "ru",
+        "gdomain": "google.kz"
+    },
+    {
+        "cc": "JO",
+        "country": "Jordan",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.jo"
+    },
+    {
+        "cc": "KE",
+        "country": "Kenya",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.co.ke"
+    },
+    {
+        "cc": "LV",
+        "country": "Latvia",
+        "lang": "Latvian",
+        "langCode": "lv",
+        "gdomain": "google.lv"
+    },
+    {
+        "cc": "LT",
+        "country": "Lithuania",
+        "lang": "Lithuanian",
+        "langCode": "lt",
+        "gdomain": "google.lt"
+    },
+    {
+        "cc": "MY",
+        "country": "Malaysia",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.my"
+    },
+    {
+        "cc": "MY",
+        "country": "Malaysia",
+        "lang": "Malay",
+        "langCode": "ms",
+        "gdomain": "google.com.my"
+    },
+    {
+        "cc": "MT",
+        "country": "Malta",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.mt"
+    },
+    {
+        "cc": "MX",
+        "country": "Mexico",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.mx"
+    },
+    {
+        "cc": "MA",
+        "country": "Morocco",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.co.ma"
+    },
+    {
+        "cc": "NL",
+        "country": "Netherlands",
+        "lang": "Dutch",
+        "langCode": "nl",
+        "gdomain": "google.nl"
+    },
+    {
+        "cc": "NZ",
+        "country": "New Zealand",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "NI",
+        "country": "Nicaragua",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.ni"
+    },
+    {
+        "cc": "NG",
+        "country": "Nigeria",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.ng"
+    },
+    {
+        "cc": "NO",
+        "country": "Norway",
+        "lang": "Norwegian",
+        "langCode": "no",
+        "gdomain": "google.no"
+    },
+    {
+        "cc": "PK",
+        "country": "Pakistan",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.pk"
+    },
+    {
+        "cc": "PK",
+        "country": "Pakistan",
+        "lang": "Urdu",
+        "langCode": "ur",
+        "gdomain": "google.com.pk"
+    },
+    {
+        "cc": "PA",
+        "country": "Panama",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.pa"
+    },
+    {
+        "cc": "PY",
+        "country": "Paraguay",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.py"
+    },
+    {
+        "cc": "PE",
+        "country": "Peru",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.pe"
+    },
+    {
+        "cc": "PH",
+        "country": "Philippines",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.ph"
+    },
+    {
+        "cc": "PL",
+        "country": "Poland",
+        "lang": "Polish",
+        "langCode": "pl",
+        "gdomain": "google.pl"
+    },
+    {
+        "cc": "PT",
+        "country": "Portugal",
+        "lang": "Portuguese",
+        "langCode": "pt",
+        "gdomain": "google.pt"
+    },
+    {
+        "cc": "RO",
+        "country": "Romania",
+        "lang": "Romanian",
+        "langCode": "ro",
+        "gdomain": "google.ro"
+    },
+    {
+        "cc": "SA",
+        "country": "Saudi Arabia",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "SN",
+        "country": "Senegal",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.sn"
+    },
+    {
+        "cc": "RS",
+        "country": "Serbia",
+        "lang": "Serbian",
+        "langCode": "sr",
+        "gdomain": "google.rs"
+    },
+    {
+        "cc": "SG",
+        "country": "Singapore",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.sg"
+    },
+    {
+        "cc": "SG",
+        "country": "Singapore",
+        "lang": "Chinese",
+        "langCode": "zh",
+        "gdomain": "google.com.sg"
+    },
+    {
+        "cc": "SK",
+        "country": "Slovakia",
+        "lang": "Slovak",
+        "langCode": "sk",
+        "gdomain": "google.sk"
+    },
+    {
+        "cc": "SI",
+        "country": "Slovenia",
+        "lang": "Slovenian",
+        "langCode": "sl",
+        "gdomain": "google.si"
+    },
+    {
+        "cc": "ZA",
+        "country": "South Africa",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "ES",
+        "country": "Spain",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.es"
+    },
+    {
+        "cc": "SE",
+        "country": "Sweden",
+        "lang": "Swedish",
+        "langCode": "sv",
+        "gdomain": "google.se"
+    },
+    {
+        "cc": "CH",
+        "country": "Switzerland",
+        "lang": "German",
+        "langCode": "de",
+        "gdomain": "google.ch"
+    },
+    {
+        "cc": "CH",
+        "country": "Switzerland",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.ch"
+    },
+    {
+        "cc": "TH",
+        "country": "Thailand",
+        "lang": "Thai",
+        "langCode": "th",
+        "gdomain": "google.co.th"
+    },
+    {
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.ae"
+    },
+    {
+        "cc": "AE",
+        "country": "United Arab Emirates",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.ae"
+    },
+    {
+        "cc": "TN",
+        "country": "Tunisia",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.tn"
+    },
+    {
+        "cc": "TR",
+        "country": "Turkey",
+        "lang": "Turkish",
+        "langCode": "tr",
+        "gdomain": "google.com.tr"
+    },
+    {
+        "cc": "UA",
+        "country": "Ukraine",
+        "lang": "Ukrainian",
+        "langCode": "uk",
+        "gdomain": "google.com.ua"
+    },
+    {
+        "cc": "UA",
+        "country": "Ukraine",
+        "lang": "Russian",
+        "langCode": "ru",
+        "gdomain": "google.com.ua"
+    },
+    {
+        "cc": "EG",
+        "country": "Egypt",
+        "lang": "Arabic",
+        "langCode": "ar",
+        "gdomain": "google.com.eg"
+    },
+    {
+        "cc": "EG",
+        "country": "Egypt",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com.eg"
+    },
+    {
+        "cc": "GB",
+        "country": "United Kingdom",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.co.uk"
+    },
+    {
+        "cc": "US",
+        "country": "United States",
+        "lang": "English",
+        "langCode": "en",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "US",
+        "country": "United States",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "BF",
+        "country": "Burkina Faso",
+        "lang": "French",
+        "langCode": "fr",
+        "gdomain": "google.com"
+    },
+    {
+        "cc": "UY",
+        "country": "Uruguay",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.com.uy"
+    },
+    {
+        "cc": "VE",
+        "country": "Venezuela",
+        "lang": "Spanish",
+        "langCode": "es",
+        "gdomain": "google.co.ve"
+    }
+  ]
